@@ -1,2 +1,2 @@
 # eLearning
-This repository is for learners in the Graduate CERTIFICATE IN aPPLIED ElEARNING
+This repository is for learners in the Graduate Certificate in Applied eLearning.
